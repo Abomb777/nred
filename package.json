@@ -1,0 +1,24 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "@meowwolf/node-red-contrib-amqp": "~2.4.2",
+        "node-red-contrib-crypto-js": "~0.1.1",
+        "node-red-contrib-email-out": "~0.1.1",
+        "node-red-contrib-function-npm": "~0.4.3",
+        "node-red-contrib-http-request-proxy": "~0.1.20",
+        "node-red-contrib-image-output": "~0.6.4",
+        "node-red-contrib-image-tools": "~2.1.1",
+        "node-red-contrib-nodemailer-adapter": "~1.0.0",
+        "node-red-contrib-ui-time-scheduler": "~1.17.2",
+        "node-red-dashboard": "~3.6.5",
+        "node-red-node-email": "~3.0.3",
+        "node-red-node-mongodb": "~0.2.5",
+        "node-red-node-mysql": "~2.0.0",
+        "node-red-node-ui-table": "~0.4.4",
+        "socks-proxy-agent": "^8.0.5",
+        "ssh2": "^1.16.0"
+    }
+}
